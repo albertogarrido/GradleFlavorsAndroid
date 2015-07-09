@@ -8,6 +8,11 @@ fake client2: https://github.com/albertogarrido/GradleFlavorsAndroid/tree/master
 
 main code: https://github.com/albertogarrido/GradleFlavorsAndroid/tree/master/app/src/main
 
+
+![alt tag](screenshots/1.png)
+![alt tag](screenshots/2.png)
+![alt tag](screenshots/3.png)
+
 Read more: 
 
 https://medium.com/@WoloxEngineering/cook-up-your-build-variants-4afb2ee3a4fd
