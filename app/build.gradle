@@ -17,7 +17,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         release {
-            buildConfigField "String", "Bui", "52"
+            buildConfigField "String", "TEST_STRING", "\"test string\""
         }
     }
     productFlavors {
