@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Client 2</string>
+    <string name="message_client">Hello client 2</string>
+</resources>
