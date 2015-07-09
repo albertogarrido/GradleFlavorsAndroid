@@ -1,6 +1,6 @@
 # GradleFlavorsAndroid
 
-See gradle file: https://github.com/albertogarrido/GradleFlavorsAndroid/blob/master/app/build.gradle
+Gradle file: https://github.com/albertogarrido/GradleFlavorsAndroid/blob/master/app/build.gradle
 
 fake client1: https://github.com/albertogarrido/GradleFlavorsAndroid/tree/master/app/src/client1
 
